@@ -1,5 +1,9 @@
 # Leptos + Axum + Tailwindcss + daisyui Template
 
+## WSL Git 設定
+```bash
+git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/bin/git-credential-manager.exe"
+```
 
 ## dev
 
